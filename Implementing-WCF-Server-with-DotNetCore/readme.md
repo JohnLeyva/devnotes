@@ -17,5 +17,13 @@ Microsoft SOAP supported
 ## Implementation
 
 1. Explore a DotNet 4.8 WCF Server
+    - Self Hosting
+    - Binding ( Basic, WsHttpBinding, NetTCP )
+    - MetadataExchange WSDL
 2. Explore a DotNetCore WCF Client
-3. Implement a DotNetCore WCF Server  
+    - Proxy Generation
+    - Service Consumption ( Basic, WsHttpBinding, NetTCP )
+3. Implement a DotNetCore WCF Server
+    - CoreWCF Contract / Service Migration
+    - CoreWCF Host configuration
+    - Service Consumption ( Basic, WsHttpBinding, NetTCP )
